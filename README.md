@@ -4,7 +4,7 @@
   
 ## Description
   
-This project is a purely semantic edit of pre-existing code.
+    This project is a purely semantic edit of pre-existing code.
   
 ## Table of Contents
 
